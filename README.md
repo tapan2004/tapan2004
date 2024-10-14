@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tapan2004
-- 👀 I’m interested in java programming, web-development
+- 👀 I’m interested in java programming
 - 🌱 I’m currently learning core java concepts
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me via mannatapan588@gmail.com
