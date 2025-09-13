@@ -1,4 +1,4 @@
-##💫 About Me:
+## 💫 About Me:
 
 I’m a final-year B.Tech Computer Science & Engineering student at Sister Nivedita University (Techno India Group) with a strong passion for Java backend development, software engineering, and using technology to solve real-world problems.
 
