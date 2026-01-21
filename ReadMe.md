@@ -4,8 +4,6 @@ I’m a final-year B.Tech Computer Science & Engineering student at Sister Nived
 
 My journey began with C programming, which built a solid foundation in Data Structures & Algorithms and sparked my interest in backend systems. Since then, I’ve gained hands-on experience working with Java, Spring Boot, Hibernate, Jpa, REST APIs and both relational and NoSQL databases. I also enjoy exploring frontend technologies to build full-stack solutions when needed.
  
-
-
 Let’s connect!
 
 ## 🌐 Socials:
