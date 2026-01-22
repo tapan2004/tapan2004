@@ -1,9 +1,13 @@
 ## 💫 About Me:
 
-I’m a final-year B.Tech Computer Science & Engineering student at Sister Nivedita University (Techno India Group) with a strong passion for Java backend development, software engineering, and using technology to solve real-world problems.
+I’m a final-year B.Tech Computer Science & Engineering student at Sister Nivedita University (Techno India Group) 
+with a strong passion for
+Java Backend Developer with strong expertise in Java, Spring Boot, Hibernate, JPA, and REST APIs.
+Solid foundation in Data Structures & Algorithms and Core CS concepts.
+Experienced in building scalable backend services using relational and NoSQL databases.
+Hands-on with API design, clean code practices, and system-oriented development.
+Actively seeking opportunities to deliver value as a Backend / Software Engineer.
 
-My journey began with C programming, which built a solid foundation in Data Structures & Algorithms and sparked my interest in backend systems. Since then, I’ve gained hands-on experience working with Java, Spring Boot, Hibernate, Jpa, REST APIs and both relational and NoSQL databases. I also enjoy exploring frontend technologies to build full-stack solutions when needed.
- 
 Let’s connect!
 
 ## 🌐 Socials:
