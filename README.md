@@ -1,4 +1,3 @@
-```markdown
 # Tapan Manna | Full Stack Developer
 
 <p align="center">
@@ -144,4 +143,3 @@ Here are a few high-impact projects I've developed, showcasing enterprise archit
     <img src="https://visitcount.itsvg.in/api?id=tapan2004&icon=2&color=0" alt="Visit Count" />
   </a>
 </p>
-```
