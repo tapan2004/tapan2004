@@ -65,6 +65,7 @@ To keep my profile clean and readable, I've categorized my stack using a unified
   <img src="https://img.shields.io/badge/Apache_Kafka-1e293b?style=for-the-badge&logo=apachekafka&logoColor=ffffff" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/GitHub_Actions-1e293b?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jenkins-1e293b?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Railway-1e293b?style=for-the-badge&logo=railway&logoColor=ffffff" alt="Railway" />
   <img src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-1e293b?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
   <img src="https://img.shields.io/badge/Swagger-1e293b?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="Swagger" />
