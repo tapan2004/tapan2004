@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tapan Manna | Full Stack Developer | Backend Developer | Java Backend Developer | Spring Boot Developer | Froentend Developer
+# 👋 Hi, I'm Tapan Manna | Full Stack Developer | Backend Developer | Java Developer | Froentend Developer
 
 ## 💫 About Me:
 
