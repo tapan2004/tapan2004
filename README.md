@@ -1,3 +1,4 @@
+# 👋 Hi, I'm Tapan Manna | Full Stack Developer | Backend Developer | Java Backend Developer | Spring Boot Developer | Froentend Developer
 
 ## 💫 About Me:
 
@@ -70,6 +71,45 @@ To keep my profile clean and readable, I've categorized my stack using a unified
   <img src="https://img.shields.io/badge/Swagger-1e293b?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="Swagger" />
 </p>
 
+---
+## 🚀 Featured Projects
+Here are the key high-impact backend and full-stack systems I've developed, showcasing my focus on concurrency control, scalability, security, and enterprise architectures:
+
+### 📊 [Smart Personal Finance Management System](https://github.com/tapan2004/SmartFinanceTrackerApi) (January 2026 – February 2026)
+- **Architected** a scalable Controller–Service–Repository layered backend using **Java**, **Spring Boot**, and **Spring Data JPA**, developing **15+ RESTful APIs** for financial transactions, budgeting, and real-time expense tracking with persistent storage in **MySQL**.
+- **Secured** REST APIs using **JWT-based authentication** and **role-based authorization (RBAC)** with **Spring Security**, implementing stateless session management, pagination, filtering, and global exception handling.
+- **Enhanced** application functionality by integrating email notifications via **JavaMailSender**, automated Excel report generation using **Apache POI**, scheduled background jobs with **Spring Scheduler**, an **AI chat system**, and secure profile image uploads via **Cloudinary**.
+* **Tech Stack**: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA/Hibernate`, `REST APIs`, `MySQL`, `JWT`, `Cloudinary`
+  
+### ☕ [AI-Powered Smart Cafe Management System](https://github.com/tapan2004/smart-cafe-management-system) (September 2025 – November 2025)
+- **Constructed** a scalable backend integrating **Spring Boot (Java)** and **FastAPI (Python)** to power **REST APIs** for café operations including products, orders, billing, and user management, secured with **JWT-based authentication** and **role-based authorization (RBAC)** via **Spring Security**.
+- **Engineered ML pipelines** for sales prediction, product recommendation, peak hour detection, and stock forecasting using **Scikit-Learn**, **Apriori algorithm**, and **Facebook Prophet** for time-series demand forecasting from historical transaction data.
+- **Designed** a unified analytics dashboard API consolidating multiple AI services into a single endpoint, built a real-time recommendation engine using **Apriori** to analyze transaction datasets, and optimized **MySQL** queries and data pipelines for high-performance analytics workloads.
+* **Tech Stack**: `Java`, `Spring Boot`, `Spring Security`, `FastAPI`, `Python`, `MySQL`, `REST APIs`
+
+### 🎟️ [Event Ticket Booking — Concurrency & Locking](https://github.com/tapan2004/Ticket_Booking_API) (2025)
+*High-concurrency backend solving the seat overselling problem using transaction locks.*
+- Prevented double-booking and race conditions in ticket inventory using **Pessimistic Locking** (`PESSIMISTIC_WRITE`) at the database layer.
+- Enforced complete database transactional integrity (**ACID**) so that booking transactions commit completely or rollback on failures.
+- Conducted stress testing of 20 concurrent requests targeting exactly 5 remaining seats: validated that exactly 5 bookings succeeded while 15 requests gracefully failed with a `400 Bad Request`.
+- Modeled structured Entity relationships (Event, Section, Booking) with built-in occupancy tracking.
+* **Tech Stack**: `Java 21`, `Spring Boot`, `JPA/Hibernate`, `Pessimistic Locking`, `MySQL`
+  
+### ⚡ [Spring Boot Async Order Processing](https://github.com/tapan2004/spring-boot-async-order-processing) (2025)
+*Production-grade asynchronous order processing pipeline replicating high-volume e-commerce environments.*
+- Designed a non-blocking API flow where orders confirm instantly while long-running post-order jobs process asynchronously.
+- Customized core threads using **ThreadPoolTaskExecutor** configured with Core: 5, Max: 20, Queue capacity: 500, and a `CallerRunsPolicy` rejection strategy.
+- Automated parallel execution tasks including order notification dispatch, vendor assignment, packing scheduler, and dispatch tracking.
+- Implemented graceful pool shutdown and end-to-end trace correlation using custom context logging.
+* **Tech Stack**: `Java 21`, `Spring Boot`, `@Async`, `ThreadPoolTaskExecutor`, `CompletableFuture`
+  
+### ✉️ [FullStack Email Sender](https://github.com/tapan2004/Email-Service-Application) (2025)
+*A responsive email client supporting multiple SMTP configurations with built-in reliability testing.*
+- Created a robust SMTP email relay supporting Gmail and Outlook providers using **JavaMailSender**.
+- Built a clean, modern user interface in **React** styled with **Tailwind CSS** consuming the REST API.
+- Implemented service-layer unit tests using **Mockito** to ensure consistent API communication.
+- Documented and structured endpoint testing configurations inside Postman.
+* **Tech Stack**: `Java`, `Spring Boot`, `JavaMailSender`, `React`, `Tailwind CSS`, `Mockito`
 ---
 
 ### ✍️ Random Dev Quote
