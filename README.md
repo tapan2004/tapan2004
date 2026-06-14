@@ -41,6 +41,7 @@ To keep my profile clean and readable, I've categorized my stack using a unified
   <img src="https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-1e293b?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1e293b?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1e293b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap_5-1e293b?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
 </p>
 ### ⚙️ Backend & Frameworks
